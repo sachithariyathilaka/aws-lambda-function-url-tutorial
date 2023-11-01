@@ -1,0 +1,11 @@
+org/json/JSONException.class
+aws/lambda/Resource.class
+org/json/JSONObject$1.class
+org/json/JSONStringer.class
+org/json/JSONStringer$Scope.class
+org/json/JSONObject.class
+org/json/JSON.class
+org/json/JSONTokener.class
+aws/lambda/App.class
+org/json/JSONArray.class
+aws/lambda/Request.class
