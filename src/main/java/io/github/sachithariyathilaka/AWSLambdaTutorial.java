@@ -7,7 +7,7 @@ import io.github.sachithariyathilaka.resource.RequestBody;
 import org.json.JSONObject;
 
 /**
- * Main class for the aws lambda functional url terminal test.
+ * Main class for the aws lambda functional url test.
  *
  * @author  Sachith Ariyathilaka
  * @version 1.0.0
