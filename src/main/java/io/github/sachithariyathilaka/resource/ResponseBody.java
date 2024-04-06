@@ -1,4 +1,4 @@
-package aws.lambda;
+package io.github.sachithariyathilaka.resource;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -9,7 +9,7 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Resource {
+public class ResponseBody {
     private String name;
     private int age;
     private String gender;
