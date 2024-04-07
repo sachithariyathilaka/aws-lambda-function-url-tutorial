@@ -13,7 +13,7 @@
     <!-- Project information -->
     <name>AWS Lambda Function URL Tutorial</name>
     <description>Java maven tutorial project for AWS lambda function URL</description>
-    <url>https://github.com/sachithariyathilaka/aws-lambda-function-url</url>
+    <url>https://github.com/sachithariyathilaka/aws-lambda-function-url-tutorial</url>
     <inceptionYear>2024</inceptionYear>
 
     <!-- License information -->
@@ -138,9 +138,9 @@
 
     <!-- SCM information -->
     <scm>
-        <url>https://github.com/sachithariyathilaka/aws-lambda-function-url</url>
-        <connection>scm:git:https://github.com/sachithariyathilaka/aws-lambda-function-url.git</connection>
-        <developerConnection>scm:git:git@github.com:sachithariyathilaka/aws-lambda-function-url.git
+        <url>https://github.com/sachithariyathilaka/aws-lambda-function-url-tutorial</url>
+        <connection>scm:git:https://github.com/sachithariyathilaka/aws-lambda-function-url-tutorial.git</connection>
+        <developerConnection>scm:git:git@github.com:sachithariyathilaka/aws-lambda-function-url-tutorial.git
         </developerConnection>
     </scm>
 
