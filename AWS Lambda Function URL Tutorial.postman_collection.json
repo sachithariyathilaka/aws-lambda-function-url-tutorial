@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "9870babd-d84b-4a6b-b768-162334055b15",
+		"name": "AWS Lambda Function URL Tutorial",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "7110933"
+	},
+	"item": [
+		{
+			"name": "Function URL",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Sachith Ariyathilaka\",\r\n  \"age\": \"27\",\r\n  \"gender\": \"Male\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://tjifwb7tqefszchfavp64vtzxi0iqtbc.lambda-url.eu-north-1.on.aws/",
+					"protocol": "https",
+					"host": [
+						"tjifwb7tqefszchfavp64vtzxi0iqtbc",
+						"lambda-url",
+						"eu-north-1",
+						"on",
+						"aws"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
