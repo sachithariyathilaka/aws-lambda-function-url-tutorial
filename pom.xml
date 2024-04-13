@@ -88,6 +88,18 @@
 
     </dependencies>
 
+    <!-- Profile information -->
+    <profiles>
+		
+        <profile>
+	   <id>tutorial</id>
+	   <activation>
+	       <activeByDefault>true</activeByDefault>
+	   </activation>
+        </profile>
+		
+    </profiles>
+
     <!-- Repository information -->
     <repositories>
              
