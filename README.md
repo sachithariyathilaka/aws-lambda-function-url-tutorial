@@ -9,13 +9,13 @@ Java maven project for AWS Lambda function url.
   * Maven
   * AWS Lambda Functions
 
-* ### Configuration
-  * https://sachithariyathilaka.medium.com/aws-lambda-function-url-151e056049ba
+* ### Documentation
+  * [Read on Medium](https://sachithariyathilaka.medium.com/aws-lambda-function-url-151e056049ba)
   
 * ### Release Note
 
-    * Release: 1.0.0
-    * Date: 2024/04/06
+    * Version: 1.0.0
+    * Release Date: 2024/04/06
     * Module: AWS Lambda Function URL Tutorial
     * Changes
         * Implements the AWS lambda function url terminal test of the application.
